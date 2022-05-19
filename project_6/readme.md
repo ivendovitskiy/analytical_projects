@@ -41,4 +41,4 @@
 Изучить эффективность источников привлечения пользователей, найти точки роста
 
 ## Используемые библиотеки
-*pandas, matplotlib, seaborn, plotly.express, numpy*
+*pandas, matplotlib.pyplot, seaborn, plotly.express, numpy*
